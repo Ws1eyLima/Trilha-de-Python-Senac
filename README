@@ -1,0 +1,50 @@
+# 🐍 Dominando Algoritmos em Python
+
+Repositório com os exercícios e projetos desenvolvidos ao longo da formação **"Dominando Algoritmos em Python"**, focada em construir a inteligência algorítmica necessária para pensar como um(a) programador(a) e estruturar soluções que um computador possa executar.
+
+## 🎯 Sobre a formação
+
+Antes de dominar qualquer linguagem avançada, é essencial passar pelos pilares fundamentais da programação. Esta formação percorre cinco trilhas essenciais, cada uma ampliando o poder dos algoritmos construídos:
+
+| Trilha | O que aprendo |
+|---|---|
+| 1️⃣ **Modelo Sequencial** | Receber dados, processá-los e gerar resultados |
+| 2️⃣ **Modelo Condicional** | Tomar decisões e escolher diferentes caminhos (`if`/`elif`/`else`) |
+| 3️⃣ **Modelo Iterativo** | Repetir tarefas automaticamente (`for`/`while`) |
+| 4️⃣ **Estrutura de Dados: Vetor** | Armazenar e processar listas de informações |
+| 5️⃣ **Abstração com Funções** | Dividir programas em partes menores e reutilizáveis |
+
+## 📂 Estrutura do repositório
+
+```
+├── 01-modelo-sequencial/
+├── 02-modelo-condicional/
+├── 03-modelo-iterativo/
+├── 04-estrutura-de-dados-vetor/
+├── 05-abstracao-com-funcoes/
+└── README.md
+```
+
+Cada pasta contém os exercícios resolvidos daquela trilha, com o código-fonte em Python.
+
+## 🚀 Como executar
+
+```bash
+git clone <url-do-repositorio>
+cd <nome-do-repositorio>
+python nome_do_arquivo.py
+```
+
+Requer apenas **Python 3** instalado — os exercícios não dependem de bibliotecas externas.
+
+## 🛠️ Tecnologias
+
+- Python 3
+
+## 📌 Status
+
+🚧 Em andamento — repositório atualizado conforme avanço nas trilhas da formação.
+
+## 👤 Autor
+
+Desenvolvido por **Weslley Caires** como parte dos estudos Segurança Cibernética.
